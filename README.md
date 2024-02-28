@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://stock.adobe.com/images/book-your-doctor-online/365031031" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://img.freepik.com/free-vector/call-doctor-concept-doctors-answer-patient-questions-phone_1150-50289.jpg?w=996&t=st=1709107366~exp=1709107966~hmac=142d8c2390c93749dca0db46a8e6e99eb52847872ffbe3a7f4b81da7bc8dba22" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
