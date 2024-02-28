@@ -2,7 +2,7 @@
 
 <p align="center">
  <br/>
-<img src="https://pngtree.com/freepng/patients-characters-waiting-doctor-appointment-in-hospital-hallway-with-reception-desk_8647836.html" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://stock.adobe.com/images/book-your-doctor-online/365031031" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
