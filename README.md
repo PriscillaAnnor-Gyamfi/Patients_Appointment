@@ -1,4 +1,4 @@
-<h1>Hotel Bookings Project</h1>
+<h1>Patient Appointment</h1>
 
 <p align="center">
  <br/>
