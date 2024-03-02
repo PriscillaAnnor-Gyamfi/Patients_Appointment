@@ -1,4 +1,4 @@
-<h1>Patient Appointment</h1>
+<h1>Patient Appointment Case Study</h1>
 
 <p align="center">
  <br/>
