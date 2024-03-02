@@ -8,10 +8,9 @@
 
 
 
-<h2>Problem Statement</h2>
-Understanding and Improving Hotel Booking Processes:
-Despite the significance of hotel bookings in the hospitality industry, challenges persist in optimizing booking procedures to enhance efficiency and guest satisfaction. This project aims to investigate factors influencing hotel bookings, such as hotel type, booking patterns, guest demographics, and cancellation rates, to identify opportunities for streamlining the booking process and improving overall guest experiences. By leveraging data-driven insights, this study seeks to address key issues and implement strategies that enhance booking procedures and maximize hotel revenue.
+<h2>Context</h2>
 
+This patient appointment case study provides a comprehensive analysis of appointment attendance based on demographic factors such as age and gender. It also delves into the correlation between attendance and health conditions, including hypertension, alcoholism, and diabetes, as well as the distinction between scholarship holders and non-scholarship holders. With a dataset of 110,526 records, this study aims to uncover insights into factors influencing patient attendance and inform strategies for improving appointment adherence in healthcare settings.
 
 
 <h2>Key Findings</h2>
