@@ -76,19 +76,19 @@ Utilize data analytics to identify patients at higher risk of missing appointmen
 
 <p align="center">
  <br/>
-<img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hai9rSO.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e31rrDr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Market Segments: <br/>
-<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+<img src="https://i.imgur.com/2atHQlt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Hotel Types and Cancellations:  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<img src="https://i.imgur.com/Sf16S74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
