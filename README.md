@@ -30,25 +30,30 @@ Among adults, hypertension patients accounted for the highest count. </b>
 - <b>Scholarship Holder Attendance:
 76.3% (8,283) of scholarship recipients attended their appointments.</b>
 
- 
- 
+
+
+
+
+
 
 
 
 <h2>Recommendations</h2>
 
-- <b>Cancellation Management Strategies: Implement measures to mitigate cancellations, particularly for City hotels, such as introducing flexible cancellation policies or requiring deposits for bookings to 
-     ensure commitment from guests.</b>
-- <b>Seasonal Pricing Strategy: Capitalize on peak booking periods in August, July, and May by implementing dynamic pricing strategies to maximize revenue during high-demand seasons.</b>
-- <b>Targeted Marketing Campaigns: Leverage demographic preferences to tailor marketing efforts towards European countries, focusing on promotions and offers that appeal to guests from Portugal, Great Britain, 
-     France, Spain, and Germany.</b>
-- <b>Enhanced Online Presence: Strengthen partnerships with Online Travel Agencies (OTAs) to further penetrate the online booking market segment, optimizing visibility and accessibility for potential guests.</b>
-- <b>Customer Loyalty Programs: Develop initiatives to increase customer retention, such as loyalty programs or personalized offers for repeated guests, to foster long-term relationships and encourage repeat 
-     bookings.</b>
-- <b>Review Pricing Strategy: Evaluate the Average Daily Rate (ADR) and pricing structure to ensure competitiveness within the market while maintaining profitability, considering factors such as demand trends 
-     and guest preferences.</b>
-- <b>Optimization of Room Allocation: Allocate resources and prioritize inventory management strategies to accommodate fluctuations in demand during peak booking periods, ensuring efficient utilization of hotel 
-     facilities and maximizing revenue potential.<b>
+- <b> Targeted Communication for Appointment Reminders:
+Develop customized communication strategies for appointment reminders, considering the higher attendance rate among females compared to males. Tailoring reminders to different demographic groups may improve overall attendance rates.</b>
+- <b>Focus on Adult Health Education and Management:
+Given that adults aged 24-64 years represent the highest age group and have the highest count of hypertension patients, prioritize health education and management programs tailored to this demographic. Addressing hypertension among adults may lead to better appointment adherence and health outcomes.</b>
+- <b>Early Intervention for Infant Appointments:
+Implement early intervention strategies for infant appointments, considering they comprise the lowest age group in attendance. Providing additional support and resources to parents or caregivers of infants may encourage better appointment adherence.</b>
+- <b>Scholarship Holder Support Programs:
+Continue to support scholarship recipients, as they demonstrate a higher attendance rate compared to non-scholarship holders. Implement targeted support programs or incentives to further encourage attendance among this group.</b>
+- <b>Improved Appointment Scheduling and Accessibility:
+Explore options for flexible appointment scheduling and improved accessibility, particularly for patients with chronic conditions like hypertension. Providing convenient appointment times and telehealth options may help overcome barriers to attendance.</b>
+- <b>Health Literacy Initiatives:
+Invest in health literacy initiatives aimed at all patient demographics to improve understanding of the importance of attending appointments, particularly for managing chronic conditions. Clear communication about the consequences of missed appointments can motivate patients to prioritize attendance.</b>
+- <b>Data-Driven Outreach and Follow-Up:
+Utilize data analytics to identify patients at higher risk of missing appointments, such as those with chronic conditions or infants, and implement proactive outreach and follow-up measures. Personalized communication and reminders based on patient demographics and health status can improve appointment adherence.<b>
  
 
 <br />
