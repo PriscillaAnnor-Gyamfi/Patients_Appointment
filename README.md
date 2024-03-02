@@ -15,17 +15,24 @@ This patient appointment case study provides a comprehensive analysis of appoint
 
 <h2>Key Findings</h2>
 
-- <b>Hotel Type: The City hotel receives the highest patronage, totaling 79,330 bookings, surpassing the Resort hotel. However, City hotels also experienced the highest number of cancellations compared to the 
-     Resort hotel.</b>
-- <b>Peak Booking Periods: August emerges as the peak booking period with 13,877 bookings, followed by July and May. These months coincide with the summer season, a time when vacation travel is prevalent. </b>
-- <b>Demographic Preferences: Approximately 28.6% of all guests originated from Portugal, followed by Great Britain, France, Spain, and Germany. This suggests that the majority of hotel guests hail from European 
-     countries.</b>
-- <b>Market Segments/Booking channels: Online Travel Agencies (OTAs) accounted for 47.3% of total bookings, amounting to 56,477 reservations. </b>
-- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal recorded the highest Average Daily Rate of $5,400 at a City hotel, without eligibility for a refund.</b>
-- <b>Cancellation Rates: The absence of deposits for most bookings contributed to a significant number of cancellations. Deposits serve as a commitment indicator for guests to honor their reservations.</b>
-- <b>Customer Retention: Repeated guests comprise only 3.19% of total bookings, indicating that the majority of reservations are made by first-time guests or customers.</b>
+- <b>Demographic Insights:
+The average age of patients is 37 years, with the oldest patient being 115 years old.
+The dataset comprises a total of 110,526 patient appointments.</b>
+- <b>Appointment Attendance:
+79.8% of patients (88,207) showed up for their appointments, while 20.2% (22,319) did not.
+Females accounted for 64.9% (57,245) of appointments that were attended, whereas males accounted for 35.1% (30,962).</b>
+- <b>Age Distribution:
+The highest age group for appointments was adults aged 24-64 years, accounting for 53.6% (47,237) of appointments.
+The lowest age group was infants aged 0 years, comprising 3.3% (2,900) of appointments.</b>
+- <b>Health Condition Insights:
+Hypertension was the most prevalent health condition, with 21,801 patients diagnosed, but only 18,029 showed up for their appointments.
+Among adults, hypertension patients accounted for the highest count. </b>
+- <b>Scholarship Holder Attendance:
+76.3% (8,283) of scholarship recipients attended their appointments.</b>
+
  
  
+
 
 
 <h2>Recommendations</h2>
